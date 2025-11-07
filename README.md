@@ -177,7 +177,7 @@ Published: {"patient_id": "P005", "timestamp": "...", "heart_rate": -1, ...}
 Below is the **Power BI dashboard** connected live to **BigQuery** via **DirectQuery** mode.  
 It provides real-time monitoring of patient vitals and their risk status.
 
-![Patient Vital Monitoring Dashboard](e215b1be-811c-4565-a2ff-e5507164f1f6.png)
+![Patient Vital Monitoring Dashboard](./Dashboard.jpg)
 
 ### 🧾 Dashboard Components
 
